@@ -1,3 +1,4 @@
+![PHPUnit](./img/logo.png)
 # PHPUnit 
 
 ## Framework do testów jednostkowych dla języka programowania PHP. Jest członkiem rodziny frameworków xUnit wywodzącej się z pakietu SUnit stworzonego przez Kenta Becka. PHPUnit jest rozwijany przez Sebastiana Bergmanna.
