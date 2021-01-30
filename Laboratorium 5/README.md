@@ -58,9 +58,9 @@ C:\Users\username phpunit --version
 
 ### Przykład
 
-Przykład dostępny w katalogu [@przyklad](https://github.com/wszwszwsz/TAU/tree/main/Laboratorium%205/przyklad) 
+Przykład dostępny w katalogu [przyklad](https://github.com/wszwszwsz/TAU/tree/main/Laboratorium%205/przyklad) 
 
 
-## Żródło
-This app is inspired by Rando Kim book „Time of Your Life”
-and Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
+## Żródła
+[wikipedia](https://pl.wikipedia.org/wiki/PHPUnit)
+[instalacja](https://www.w3resource.com/php/PHPUnit/installation-of-php-unit.php)
