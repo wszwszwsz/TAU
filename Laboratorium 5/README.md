@@ -65,4 +65,5 @@ Przykład dostępny w katalogu [przyklad](https://github.com/wszwszwsz/TAU/tree/
 [wikipedia](https://pl.wikipedia.org/wiki/PHPUnit)
 [instalacja](https://www.w3resource.com/php/PHPUnit/installation-of-php-unit.php)
 
-### Created by Wojtek. ![avatar](./img/dino.png)
+### Created by Wojtek.
+![avatar](./img/dino.png)
