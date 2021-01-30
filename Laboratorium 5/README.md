@@ -4,7 +4,7 @@
 
 ### Spis treści
 * [Zasada pracy](#zasada-pracy)
-* [Organizacja testów](#organizacja_testów)
+* [Organizacja testów](#organizacja-testów)
 * [Możliwości](#możliwości)
 * [Instalacja](#instalacja)
 * [Przykład](#przykład)
@@ -23,42 +23,33 @@ Zestaw testów może również przyłączać inne zestawy testów, co umożliwia
 
 PHPUnit oferuje programiście następujące możliwości:
 
-*Narzędzia do tworzenia testów jednostkowych i organizowania ich w hierarchiczne zestawy.
-*Interfejs linii komend do wykonywania testów
-*Dostawcy danych (ang. data providers) – generatory zestawów danych dla testów pozwalające sprawdzić, jak pojedynczy test zachowuje się dla różnych danych wejściowych.
-*Wsparcie dla testowania kodu korzystającego z baz danych.
-*Możliwość testowania wyjątków.
-*Wsparcie dla atrap obiektów (ang. mock objects)
-*Generator raportów
-*Generator raportów pokrycia kodu (wymaga XDebug)
-*Współpraca z narzędziem Selenium RC do testowania interfejsów użytkownika
+* Narzędzia do tworzenia testów jednostkowych i organizowania ich w hierarchiczne zestawy.
+* Interfejs linii komend do wykonywania testów
+* Dostawcy danych (ang. data providers) – generatory zestawów danych dla testów pozwalające sprawdzić, jak pojedynczy test zachowuje się dla różnych danych wejściowych.
+* Wsparcie dla testowania kodu korzystającego z baz danych.
+* Możliwość testowania wyjątków.
+* Wsparcie dla atrap obiektów (ang. mock objects)
+* Generator raportów
+* Generator raportów pokrycia kodu (wymaga XDebug)
+* Współpraca z narzędziem Selenium RC do testowania interfejsów użytkownika
 
 ### Instalacja
  lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
  lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+ ```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
  lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
 ### Przykład
 
-lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
+lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem 
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+
