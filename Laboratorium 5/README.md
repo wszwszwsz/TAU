@@ -36,12 +36,10 @@ PHPUnit oferuje programiście następujące możliwości:
 * Współpraca z narzędziem Selenium RC do testowania interfejsów użytkownika
 
 ### Instalacja
- lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
- lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
- ```
-$ cd ../lorem
-$ npm install
-$ npm start
+Instalacja PHPUnit poprzez Composer jest bardzo prosta
+composer require --dev phpunit/phpunit ^8
+```
+composer require --dev phpunit/phpunit ^8
 ```
  lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
 ### Przykład
