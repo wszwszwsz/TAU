@@ -1,5 +1,5 @@
 ![PHPUnit](./img/logo.png)
-#             PHPUnit 
+# PHPUnit 
 
 ## Framework do testów jednostkowych dla języka programowania PHP. Jest członkiem rodziny frameworków xUnit wywodzącej się z pakietu SUnit stworzonego przez Kenta Becka. PHPUnit jest rozwijany przez Sebastiana Bergmanna.
 
@@ -37,21 +37,28 @@ PHPUnit oferuje programiście następujące możliwości:
 
 ### Instalacja
 Instalacja PHPUnit poprzez Composer jest bardzo prosta
-composer require --dev phpunit/phpunit ^8
 ```
 composer require --dev phpunit/phpunit ^8
 ```
- lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+Globalna instalacja dla systemów Windows wygląda następująco:
+
+* Stworz folder dla plików PHP np: “C:\bin”
+* Dodaj ścieżke ;C:bin w twoich zmiennych środowiskowych(PATH)
+* Sciągnij PHAR i zapisz go w swoim nowo utworzonym folderze C:\bin\phpunit.phar
+* Otwórz terminal i wpisz następujące komendy:
+```
+C:\Users\username cd C:\bin
+C:\bin> echo @php "%~dp0phpunit.phar" %* > phpunit.cmd
+C:\bin> exit
+```
+* Możesz sprawdzić czy instalacja przebiegła pomyślnie po wpisaniu do konsoli:
+```
+C:\Users\username phpunit --version
+```
+
 ### Przykład
 
-Przykład dostępny w katalogu "przykład" 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-
-impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+Przykład dostępny w katalogu [@przyklad](https://github.com/wszwszwsz/TAU/tree/main/Laboratorium%205/przyklad) 
 
 
 ## Żródło
