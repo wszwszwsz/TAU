@@ -9,7 +9,7 @@
 * [Możliwości](#możliwości)
 * [Instalacja](#instalacja)
 * [Przykład](#przykład)
-* [Żródło](#żródło)
+* [Żródło](#żródła)
 
 ### Zasada pracy
 PHPUnit służy do automatycznego testowania oprogramowania napisanego w języku PHP przy pomocy testów jednostkowych. Programiści tworzący aplikację przygotowują zestaw testów jednostkowych sprawdzających, czy poszczególne komponenty aplikacji działają zgodnie z oczekiwaniami. PHPUnit wykonuje po kolei wszystkie testy i po zebraniu wszystkich wyników, przedstawia programiście raport o ilości zaliczonych testów. Dodatkowo, zawiera on szczegółowe informacje o nieprawidłowych wynikach oraz błędach wykonania.
