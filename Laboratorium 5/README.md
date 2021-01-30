@@ -1,9 +1,13 @@
-# PHPUnit - framework do testów jednostkowych dla języka programowania PHP. Jest członkiem rodziny frameworków xUnit wywodzącej się z pakietu SUnit stworzonego przez Kenta Becka. PHPUnit jest rozwijany przez Sebastiana Bergmanna.
+# PHPUnit 
+
+## Framework do testów jednostkowych dla języka programowania PHP. Jest członkiem rodziny frameworków xUnit wywodzącej się z pakietu SUnit stworzonego przez Kenta Becka. PHPUnit jest rozwijany przez Sebastiana Bergmanna.
 
 ### Spis treści
-* [Zasada pracy](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Zasada pracy](#zasada-pracy)
+* [Organizacja pracy](#organizacja_testow)
+* [Możliwości](#możliwości)
+* [Instalacja](#instalacja)
+* [Przykład](#przykład)
 
 ### Zasada pracy
 PHPUnit służy do automatycznego testowania oprogramowania napisanego w języku PHP przy pomocy testów jednostkowych. Programiści tworzący aplikację przygotowują zestaw testów jednostkowych sprawdzających, czy poszczególne komponenty aplikacji działają zgodnie z oczekiwaniami. PHPUnit wykonuje po kolei wszystkie testy i po zebraniu wszystkich wyników, przedstawia programiście raport o ilości zaliczonych testów. Dodatkowo, zawiera on szczegółowe informacje o nieprawidłowych wynikach oraz błędach wykonania.
@@ -19,16 +23,23 @@ Zestaw testów może również przyłączać inne zestawy testów, co umożliwia
 
 PHPUnit oferuje programiście następujące możliwości:
 
-Narzędzia do tworzenia testów jednostkowych i organizowania ich w hierarchiczne zestawy.
-Interfejs linii komend do wykonywania testów
-Dostawcy danych (ang. data providers) – generatory zestawów danych dla testów pozwalające sprawdzić, jak pojedynczy test zachowuje się dla różnych danych wejściowych.
-Wsparcie dla testowania kodu korzystającego z baz danych.
-Możliwość testowania wyjątków.
-Wsparcie dla atrap obiektów (ang. mock objects)
-Generator raportów
-Generator raportów pokrycia kodu (wymaga XDebug)
-Współpraca z narzędziem Selenium RC do testowania interfejsów użytkownika
+*Narzędzia do tworzenia testów jednostkowych i organizowania ich w hierarchiczne zestawy.
+*Interfejs linii komend do wykonywania testów
+*Dostawcy danych (ang. data providers) – generatory zestawów danych dla testów pozwalające sprawdzić, jak pojedynczy test zachowuje się dla różnych danych wejściowych.
+*Wsparcie dla testowania kodu korzystającego z baz danych.
+*Możliwość testowania wyjątków.
+*Wsparcie dla atrap obiektów (ang. mock objects)
+*Generator raportów
+*Generator raportów pokrycia kodu (wymaga XDebug)
+*Współpraca z narzędziem Selenium RC do testowania interfejsów użytkownika
 
+### Instalacja
+ lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+ lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+ lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
+### Przykład
+
+lorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
