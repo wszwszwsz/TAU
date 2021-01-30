@@ -1,5 +1,5 @@
 ![PHPUnit](./img/logo.png)
-# PHPUnit 
+#             PHPUnit 
 
 ## Framework do testów jednostkowych dla języka programowania PHP. Jest członkiem rodziny frameworków xUnit wywodzącej się z pakietu SUnit stworzonego przez Kenta Becka. PHPUnit jest rozwijany przez Sebastiana Bergmanna.
 
@@ -9,6 +9,7 @@
 * [Możliwości](#możliwości)
 * [Instalacja](#instalacja)
 * [Przykład](#przykład)
+* [Żródło](#żródło)
 
 ### Zasada pracy
 PHPUnit służy do automatycznego testowania oprogramowania napisanego w języku PHP przy pomocy testów jednostkowych. Programiści tworzący aplikację przygotowują zestaw testów jednostkowych sprawdzających, czy poszczególne komponenty aplikacji działają zgodnie z oczekiwaniami. PHPUnit wykonuje po kolei wszystkie testy i po zebraniu wszystkich wyników, przedstawia programiście raport o ilości zaliczonych testów. Dodatkowo, zawiera on szczegółowe informacje o nieprawidłowych wynikach oraz błędach wykonania.
@@ -54,3 +55,7 @@ $ npm start
 
 impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impuslorem impus
 
+
+## Żródło
+This app is inspired by Rando Kim book „Time of Your Life”
+and Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
