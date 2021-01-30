@@ -4,7 +4,7 @@
 
 ### Spis treści
 * [Zasada pracy](#zasada-pracy)
-* [Organizacja pracy](#organizacja_pracy)
+* [Organizacja testów](#organizacja_testów)
 * [Możliwości](#możliwości)
 * [Instalacja](#instalacja)
 * [Przykład](#przykład)
